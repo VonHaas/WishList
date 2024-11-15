@@ -1,0 +1,13 @@
+title:Goodie Bygones
+description:Goodie Bygones   - shoot2loot & kinetic tremors
+
+// Bygones - Goodie Bygones ()
+//notes: Goodie Bygones   - shoot2loot & kinetic tremors
+dimwishlist:item=2199554524&perks=3700496672,3891536761
+
+
+// Bygones - Goodie Bygones   02 ()
+//notes: Goodie Bygones   - shoot2loot & kinetic tremors
+dimwishlist:item=2199554524&perks=3700496672,3891536761,515704826
+
+
